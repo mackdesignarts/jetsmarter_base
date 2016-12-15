@@ -1,4 +1,4 @@
-# jetsmarter_base
+# Jetsmarter FE Codebase
 A new front end codebase for Jetsmarter. 
 
 - Angular 2.0
